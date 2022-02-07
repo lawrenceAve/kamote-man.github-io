@@ -1,0 +1,211 @@
+
+body{
+  background-image: url(../pic/backg1.webp);
+  background-attachment: fixed;
+
+}
+
+
+#wrapper{
+   margin: auto;
+   width: 989px;
+   padding: 10px;
+   background-image: url(../pic/backg1.webp);
+background-attachment: fixed;
+}
+
+
+
+#banner{
+  background-image:url(../pic/banner2.png);
+backround-repeat: no-repeat;
+width: 989px;
+height: 225px;
+background-size: 950px 200px ;
+}
+
+#logo{
+  background-image: url(../pic/logo.png);
+background-repeat: no-repeat;
+width: 218px;
+height: 199px;
+}
+
+
+#navigator{
+background-image: url(../pic/backg2.png);
+width: 989px;
+height: 50px;
+
+}
+#navigator a{
+  float: left;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navigator a:hover{
+background-color: #ddd;
+color: black;
+}
+
+
+.line{
+display: inline-block;
+width: 327px;
+height: 300px;
+margin: 0;
+padding-right:0;
+border: 0;
+}
+
+.whitespace{
+  background-image: url(../pic/backg1.webp);
+background-attachment: fixed;
+  /*background-color: #ffff;*/
+  width: 989px;
+  height: 15px;
+
+}
+.details{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin: 0;
+  padding-left: 10px;
+  border: 0;
+
+}
+
+
+#detail1 {
+  background-image: url(../pic/backg2.png);
+}
+#detail2 {
+  background-image: url(../pic/backg2.png);
+}
+p{
+  float: left;
+  margin-left: 0px;
+  font-family: Arial;
+  color:white;
+}
+.whitespaceline{
+  background-image: url(../pic/backg1.webp);
+background-attachment: fixed;
+/*  background-color: #ffff;*/
+  display: inline-block;
+  width: 125px;
+  height: 300px;
+  margin: 0;
+  padding-right:0;
+  border: 0;
+}
+#footer{
+  background-image: url(../pic/footer.png);
+  background-repeat: no-repeat;
+  width: 989px;
+  height: 100px;
+  padding: 20px;
+  text-align: center;
+}
+.recommended{
+  background-image: url(../pic/thumbs.png);
+  position: fixed;
+  width: 300px;
+  height:285px;
+  bottom: 0;
+  right: 0;
+}
+
+#burger1{
+  background-image: url(../pic/promo.jpg);
+background-repeat: no-repeat;
+}
+#burger2{
+background-image: url(../pic/burger2.jpg);
+background-repeat: no-repeat;
+}
+#burger3{
+background-image: url(../pic/burger3.jpg);
+background-repeat: no-repeat;
+}
+#burger4{
+background-image: url(../pic/burger4.jpg);
+background-repeat: no-repeat;
+}
+#burger5{
+background-image: url(../pic/burger1.jpg);
+background-repeat: no-repeat;
+}
+#burger6{
+background-image: url(../pic/burger2.jpg);
+background-repeat: no-repeat;
+}
+#burger7{
+background-image: url(../pic/burger6.jpg);
+background-repeat: no-repeat;
+}
+#burger8{
+background-image: url(../pic/burger7.jpg);
+background-repeat: no-repeat;
+}
+#burger9{
+background-image: url(../pic/burger1.jpg);
+background-repeat: no-repeat;
+}
+#burger10{
+background-image: url(../pic/burger5.jpg);
+background-repeat: no-repeat;
+}
+#drink1{
+background-image: url(../pic/drink1.jpg);
+background-repeat: no-repeat;
+}
+
+#drink2{
+background-image: url(../pic/drink2.jpg);
+background-repeat: no-repeat;
+}
+
+#drink3{
+background-image: url(../pic/drink3.jpg);
+background-repeat: no-repeat;
+}
+
+#drink4{
+background-image: url(../pic/drink4.jpg);
+background-repeat: no-repeat;
+}
+
+#drink5{
+background-image: url(../pic/drink5.jpg);
+background-repeat: no-repeat;
+}
+#promo{
+background-image: url(../pic/promo.jpg);
+background-repeat: no-repeat;
+}
+
+#addons1{
+background-image: url(../pic/addons1.jpg);
+background-repeat: no-repeat;
+}
+#addons2{
+background-image: url(../pic/addons2.jpg);
+background-repeat: no-repeat;
+}#addons3{
+background-image: url(../pic/addons3.jpg);
+background-repeat: no-repeat;
+}
+
+#location{
+  background-image: url(../pic/location.jpg);
+  background-repeat: no-repeat;
+
+
+
+}
