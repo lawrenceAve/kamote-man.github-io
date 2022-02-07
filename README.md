@@ -1,0 +1,1 @@
+# kamote-man.github-io
